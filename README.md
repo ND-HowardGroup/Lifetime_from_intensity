@@ -19,6 +19,13 @@ Target lifetime Image: In the HSV format, where hue and value are mapped to life
 
 ![](Final%20results/target_rgb_3d.png)
 
+# ML model:
+
+Input dimensions are: 360x360 slices into 128x128 images
+pass through the autoencoder with minimum latent space of 8x8 (in between convolutional layers the Batch-norm is enabled) and bring it back to original image dimension of 128x128 with 3 output channels (to represent the HSV format where hue and value are mapped to lifetime and intensity respectively). 
+in the best model: The last layer is sigmoid
+best input and output chunk size: 128x128
+
 
 ## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
@@ -27,4 +34,4 @@ Licensed under the [Apache License 2.0](https://github.com/varunmannam/Poster_co
 
 
 # Data 
-For the data visualization [Youtube](https://www.youtube.com/watch?v=v3Bk3JNA5nM&ab_channel=YideZhang)
+For the data visualization [Youtube].(https://www.youtube.com/watch?v=v3Bk3JNA5nM&ab_channel=YideZhang)
