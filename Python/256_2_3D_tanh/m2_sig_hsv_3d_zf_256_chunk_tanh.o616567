@@ -1,0 +1,15 @@
+/afs/crc.nd.edu/user/v/vmannam/.bash_profile: line 11: unexpected EOF while looking for matching `"'
+/afs/crc.nd.edu/user/v/vmannam/.bash_profile: line 22: syntax error: unexpected end of file
+Loading pytorch/1.1.0
+  Loading requirement: cuda/10.0 cudnn/7.4
+device is:  cuda:0
+Total Execution time is =  9911.38376879692
+file input: /afs/crc.nd.edu/user/v/vmannam/Desktop/Fall19/Dataset/3D data/3D_Zebrafish/image_input_PM_FLIM_073.tif
+file target: /afs/crc.nd.edu/user/v/vmannam/Desktop/Fall19/Dataset/3D data/3D_Zebrafish/imageLifetime_PM_FLIM_073.tif
+imx1 shape (4, 256, 256)
+ip shape >>>> torch.Size([4, 1, 256, 256])
+op shape >>>> torch.Size([4, 3, 256, 256])
+tensor(0.0094, device='cuda:0', grad_fn=<MseLossBackward>)
+>>>>> (4, 3, 256, 256)
+/afs/crc.nd.edu/user/v/vmannam/.bash_profile: line 11: unexpected EOF while looking for matching `"'
+/afs/crc.nd.edu/user/v/vmannam/.bash_profile: line 22: syntax error: unexpected end of file
