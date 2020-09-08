@@ -1,5 +1,11 @@
 # Poster_code_fall19
 
+# For intesnity iamge denoising code: 
+Refer to [Code:] (https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code)
+Refer to [Plugin:] (https://github.com/ND-HowardGroup/Image_denoising/tree/master/Image_Denoising_Plugin)
+
+# For estimation of lifetime from intensity code:
+
 Input intensity Image:
 
 ![](Final%20results/image_input_PM_FLIM_073.png)
