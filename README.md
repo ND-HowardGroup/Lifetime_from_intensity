@@ -22,9 +22,9 @@ Target lifetime Image: In the HSV format, where hue and value are mapped to life
 # ML model:
 
 Input dimensions are: 360x360 slices into 128x128 images
-pass through the autoencoder with minimum latent space of 8x8 (in between convolutional layers the Batch-norm is enabled) and bring it back to original image dimension of 128x128 with 3 output channels (to represent the HSV format where hue and value are mapped to lifetime and intensity respectively). 
-in the best model: The last layer is sigmoid
-best input and output chunk size: 128x128
+pass through the autoencoder with minimum latent space of 8x8 (in between convolutional layers the Batch-norm is enabled) and bring it back to original image dimension of 128x128 with 3 output channels (to represent the HSV format where hue and value are mapped to lifetime and intensity respectively). Now stich the output images of 128x128 to 360x360 size.
+
+ML best model: The last layer is sigmoid and best input and output chunk size is 128x128. 
 
 
 ## License & Copyright
