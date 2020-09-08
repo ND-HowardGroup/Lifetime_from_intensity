@@ -1,5 +1,17 @@
 # Poster_code_fall19
 
+Input intensity Image:
+
+![](Final%20results/image_input_PM_FLIM_073.png)
+
+Estimated lifetime Image: From CNN ML model (with autoencoder architecture): In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
+
+![](Final%20results/estimated_128_rgb_3d.png)
+
+Target lifetime Image: In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
+
+![](Final%20results/target_rgb_3d.png)
+
 
 ## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
