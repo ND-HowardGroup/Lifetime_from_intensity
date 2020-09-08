@@ -1,4 +1,4 @@
-# Poster_code_fall19
+# Poster_code_Fall19
 
 # For intesnity image denoising: 
 Refer to [Code:] (https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code)
