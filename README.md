@@ -26,6 +26,12 @@ pass through the autoencoder with minimum latent space of 8x8 (in between convol
 
 ML best model: The last layer is sigmoid and best input and output chunk size is 128x128. 
 
+# Dataset:
+
+#Images: The training and test dataset can be downloaded from here https://curate.nd.edu/show/jd472v2759b
+
+#Citation for dataset: Please cite the LFI dataset using the following format: 
+Mannam, Varun. “Lifetime From Intensity (LFI) Dataset.” Notre Dame, August 13, 2019. https://doi.org/10.7274/r0-ac46-ft93.
 
 ## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
