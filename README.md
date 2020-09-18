@@ -36,7 +36,7 @@ Mannam, Varun. “Lifetime From Intensity (LFI) Dataset.” Notre Dame, August 1
 ## License & Copyright
 © 2019 Varun Mannam, University of Notre Dame
 
-Licensed under the [GPL](https://github.com/varunmannam/Poster_code_fall19/blob/master/LICENSE.txt)
+Licensed under the [GPL](https://github.com/varunmannam/Poster_code_fall19/blob/master/LICENSE)
 
 
 # Data 
