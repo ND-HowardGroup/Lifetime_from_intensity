@@ -1,4 +1,4 @@
-# Lifetiem_from_intensity_code
+# Lifetime_from_intensity
 
 # For intesnity image denoising: 
 Refer to [Code:] (https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code)
