@@ -1,4 +1,4 @@
-# Poster_code_Fall19
+# Lifetiem_from_intensity_code
 
 # For intesnity image denoising: 
 Refer to [Code:] (https://github.com/ND-HowardGroup/Biophotonics_Congress_Conference_2020_code)
